@@ -212,6 +212,19 @@ border-color: #00000033;
     height: 100px;
 }
 
+.mt-20{
+    margin-top: 20px;
+  }
+  .padding-81{
+    padding-top: 81px;
+    padding-bottom: 30px;
+  }
+  .gap10{
+    gap: 10px;
+  }
+  .mt-70{
+    margin-top: 70px;
+  }
 /*----------------------------------grid------------------------*/
 .grid {
     display: grid;
@@ -237,20 +250,6 @@ border-color: #00000033;
     grid-column: 2/3;
     grid-row: 2/5;
   }
-  .mt-20{
-    margin-top: 20px;
-  }
-  .padding-81{
-    padding-top: 81px;
-    padding-bottom: 30px;
-  }
-  .gap10{
-    gap: 10px;
-  }
-  .mt-70{
-    margin-top: 70px;
-  }
-
 /*-----------------------------------fonts------------------------*/
 .poppins-600-48{
     font-family: "Poppins", sans-serif;
