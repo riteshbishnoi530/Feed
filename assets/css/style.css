@@ -193,8 +193,9 @@ border-color: #00000033;
     right: 4%;
     border-radius: 20px;
     transform: translate(-5% -5%);
-    
+    cursor: pointer;
 }
+
 .show {
     height: 100%;
     background: #2D3CAE87;
@@ -207,11 +208,16 @@ border-color: #00000033;
     color: white;
     text-decoration: none;
 }
+.date{
+    gap: 8px;
+}
 .image{
     width: 100px;
     height: 100px;
 }
-
+.cursor{
+    cursor: pointer;
+}
 .mt-20{
     margin-top: 20px;
   }
