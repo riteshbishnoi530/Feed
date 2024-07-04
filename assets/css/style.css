@@ -235,6 +235,9 @@ border-color: #00000033;
   .mt-70{
     margin-top: 70px;
   }
+  .p-11-28{
+    padding: 11px 28px !important;
+  }
 /*----------------------------------grid------------------------*/
 .grid {
     display: grid;
