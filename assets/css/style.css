@@ -208,7 +208,7 @@ border-color: #00000033;
     color: white;
     text-decoration: none;
 }
-.date{
+.gap-8{
     gap: 8px;
 }
 .image{
@@ -217,6 +217,10 @@ border-color: #00000033;
 }
 .cursor{
     cursor: pointer;
+}
+
+.mb0{
+    margin-bottom: 0 !important;
 }
 .mt-20{
     margin-top: 20px;
